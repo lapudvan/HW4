@@ -1,3 +1,7 @@
+# To Run the Code #
+iverilog -o regfile regfile.t.v
+./regfile
+
 # CompArch HW b0100: Register File #
 
 This homework is intended to introduce behavioral Verilog and practice test bench design. You will create your first memory, a register file, which will be reused in your CPU design.
