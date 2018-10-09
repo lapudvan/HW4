@@ -1,5 +1,6 @@
 # To Run the Code #
 iverilog -o regfile regfile.t.v
+
 ./regfile
 
 # CompArch HW b0100: Register File #
